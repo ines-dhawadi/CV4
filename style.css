@@ -1,11 +1,11 @@
 img {
     position: absolute;
-    top: 20px;
-    left: 50px;
+    top: 30px;
+    left: 1000px;
 }
 
 h2 {
-    margin: 0 0 10px 30px;
+    margin: 10px 10px 30px;
     /* haut, droite, bas, gauche (respectivement) */
     color: #bb1b43;
     font: 150 georgia, palatino, serif;
@@ -18,4 +18,8 @@ h2 {
 
 body {
     background-color: rgb(248, 244, 244);
+}
+
+.info {
+    background-color: peru;
 }
